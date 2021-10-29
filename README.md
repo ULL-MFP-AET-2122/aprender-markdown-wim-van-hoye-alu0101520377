@@ -15,7 +15,7 @@ titulación homologada por el MEC en 2013
      Ingles para ingenieros
 
 ## mi cita favorita ##
-:+1: Es sencillo hacer que las cosas sean complicadas, pero difícil hacer que sean sencillas :+1:
+> Es sencillo hacer que las cosas sean complicadas, pero difícil hacer que sean sencillas 
 
 ## foto ##
 ![20210927_123146](https://user-images.githubusercontent.com/93216005/139281331-adf223eb-e249-4df5-83c8-43c6c5135f08.jpg)
@@ -31,5 +31,9 @@ https://www.20minutos.es/noticia/4868012/0/se-acerca-el-gran-apagon-austria-aler
 | neerlandés  | materna  |
 | francés  | "paterna"  |
 | alemán  | nociones  |
+
+## emoticonos ##
+:anguished:
+:heart_eyes:
 
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6129495&assignment_repo_type=AssignmentRepo)
