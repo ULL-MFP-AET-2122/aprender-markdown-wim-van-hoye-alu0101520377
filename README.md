@@ -37,7 +37,7 @@ https://www.20minutos.es/noticia/4868012/0/se-acerca-el-gran-apagon-austria-aler
 :heart_eyes:
 
 ## codigo ##
-```ruby
+```javascript
     function fancyAlert(arg) {
       if(arg) {
         $.facebox({div:'#foo'})
