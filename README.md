@@ -50,7 +50,7 @@ I think you should use an
 `<addr>` element here instead.
 
 ## fichero ##
-[master.md.txt](https://github.com/ULL-MFP-AET-2122/aprender-markdown-wim-van-hoye-alu0101520377/files/7462935/master.md.txt)
+https://github.com/ULL-MFP-AET-2122/aprender-markdown-wim-van-hoye-alu0101520377/blob/main/master.md
 
 
 
